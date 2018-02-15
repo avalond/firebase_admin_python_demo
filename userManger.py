@@ -1,4 +1,6 @@
-#!/usr/bin/python3
+#!/usr/bin/env python3
+# -*- coding: utf-8 -*-
+
 import firebase_admin
 from firebase_admin import credentials
 from firebase_admin import auth
